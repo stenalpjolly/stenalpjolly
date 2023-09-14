@@ -15,6 +15,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=stenalpjolly&theme=dark)](https://git.io/streak-stats)
+
 ### Reach me on
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat)](https://www.linkedin.com/in/stenal-jolly-26457299/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4462099)](https://stackoverflow.com/users/4462099/stenal-p-jolly)
