@@ -2,7 +2,7 @@
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stenalpjolly&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stenalpjolly&theme=dark&hide_border=true&background=22272E)](https://git.io/streak-stats)
 
 **Languages & Tools I love**
 
